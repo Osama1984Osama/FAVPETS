@@ -1,0 +1,21 @@
+.birds-info{
+    width: 25%;
+   height: 65%;
+   margin-left: 37%;
+   border-radius: 20px;
+   box-shadow: 5px 10px 18px #0097e6;
+ 
+   
+  }
+  .bird-alt{
+      text-align: center;
+      text-shadow: 2px 2px 8px #353b48;
+  }
+  .bird-title{
+    text-shadow: 0 0 3px rgb(248, 117, 117), 0 0 5px #e1b12c;
+  }
+  .link{
+      font-size: 20px;
+      color:#e15f41;
+      margin-left: 10%
+  }

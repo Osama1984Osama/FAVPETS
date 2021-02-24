@@ -1,0 +1,21 @@
+.horses-info{
+    width: 25%;
+   height: 65%;
+   margin-left: 37%;
+   border-radius: 20px;
+   box-shadow: 5px 10px 18px #00d8d6;
+ 
+   
+  }
+  .horse-alt{
+      text-align: center;
+      text-shadow: 2px 2px 8px #d2dae2;
+  }
+  .horse-title{
+    text-shadow: 0 0 3px #ffc048, 0 0 5px #1e272e;
+  }
+  .link{
+      font-size: 20px;
+      color:#ff3f34;
+      margin-left: 10%
+  }

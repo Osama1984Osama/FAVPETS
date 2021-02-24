@@ -1,0 +1,72 @@
+
+.health-container{
+    background-image: url('../../Images/health-back.jpg');
+    background-size: cover;
+    color: white;
+    
+    
+}
+
+.text h1{
+    /* margin-left: 33%; */
+    text-align: center;
+    
+}
+
+
+
+.sub-health{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.sub-health div{
+    width: 45%;
+    
+    
+    
+}
+.sub-health .text p{
+    /* text-align: left; */
+    font-weight: 700;
+    font-style: italic;
+    
+ 
+}
+
+.sub-health .text{
+    border: 2px solid white;
+    
+}
+/* .sub-health .text ol{
+    display: inline;
+    background-color: #ccc;
+} */
+.sub-health  ol li{
+    text-align:left;
+    margin-left: 10px;
+    font-style: italic;
+ 
+}
+.image img{
+    box-shadow: 5px 10px 15px black;
+   width: 500px;
+   height: 400px;
+   margin-top: 200px;
+   margin-left: 100px;
+ 
+}
+.arrow{
+    /* text-align: center; */
+    margin-left: 25%;
+    /* position: absolute; */
+  
+}
+
+.text hr{
+    width: 60%;
+    margin: 0 auto;
+    
+}

@@ -1,0 +1,37 @@
+.main-user-profile{
+    border-radius: 10px;
+    color: orange;
+    width: 500px;
+    margin: 2rem auto;
+    position: relative;
+    padding: 0 2rem;
+    height: 650px;
+    background-color: #203040;
+  }
+  .user-profile{
+      height: 30%;
+      width: 30%;
+      margin-top:20px;
+      position: absolute;
+  }
+ .profile-img{
+     width: 100px;
+     height: 100px;
+ }
+ .file-upload{
+     width: 50%;
+     height: 50%;
+     background-color: red;
+ }
+ #file{
+     width: 100%;
+     border-radius: 20px;
+     background-color: red;
+     outline: none;
+ }
+ .profile-img{
+     width: 240px;
+     height: 230px;
+     border-radius: 100%;
+     border: 5px solid white;
+ }

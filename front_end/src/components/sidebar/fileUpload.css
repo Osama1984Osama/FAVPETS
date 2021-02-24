@@ -1,0 +1,14 @@
+.profile-img{
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    background-image: url(../Images/logo.png);
+
+}
+
+.profile-img-div img{
+    height:200px;
+    margin-left: 115px;
+
+}
+

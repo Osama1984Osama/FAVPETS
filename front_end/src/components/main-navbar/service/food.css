@@ -1,0 +1,51 @@
+ 
+.food-container{
+    background-image: url('../../Images/health-back.jpg');
+    background-size: cover;
+    color: white;
+}
+.sub-food{
+    display: flex;
+    padding: 15px;
+    border: 2px solid white;
+  
+}
+.sub-food hr{
+    /* border: dashed; */
+    width: 60%;
+    margin: 0 auto;
+}
+
+.para{
+    width: 50%;
+    text-align: left;
+    font-weight: 700;
+    font-style: italic;
+
+}
+.para h1{
+    text-align: center;
+}
+ 
+.food-image{
+    width: 50%;
+}
+ .food-image img{
+    width: 400px;
+    height: 350px;
+    box-shadow: 5px 10px 15px black;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+p{
+    /* border: 1px solid #fff; */
+    line-height: 4.5rem;
+}
+/* .para img{
+ 
+   margin-left: 25%;
+    
+  
+} */
+
+ 

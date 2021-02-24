@@ -1,0 +1,28 @@
+.health-container{
+ 
+}
+.sub-health{
+ 
+    display: flex;
+    justify-content: space-evenly;
+}
+.sub-health div{
+    width: 50%;
+}
+.sub-health .text p{
+    text-align: left;
+    font-weight: 700;
+ 
+}
+.sub-health .test ol{
+    display: inline;
+    width: 100%;
+    background-color: #ccc;
+  
+ 
+}
+.sub-health  ol li{
+    text-align:left;
+    margin-left: 10px;
+ 
+}

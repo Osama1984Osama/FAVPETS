@@ -1,0 +1,210 @@
+.main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.main div {
+  width: 27%;
+  height: 300px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 10px;
+  /* background-image: url(../Images/wave.png);
+  background-color: white; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+  /* opacity: .9; */
+  margin-top: 100px;
+  opacity: .7;
+}
+
+.health {
+  position: relative;
+  color: white;
+  text-shadow: 2px 2px black;
+  font-style: oblique;
+}
+
+.health h2{
+  /* color: #0175bc; */
+  color: orange;
+  font-weight: 700;
+  font-size: 3rem;
+
+}
+
+.praxis {
+  position: relative;
+  color: white;
+  text-shadow: 1px 1px 1px white;
+  font-style: oblique;
+}
+
+.food {
+  position: relative;
+  color: white;
+  text-shadow: 2px 2px black;
+  font-style: oblique;
+}
+
+.link{
+  /* display: none; */
+  outline: none;
+}
+
+
+.health button {
+ 
+  width: 100%;
+  height: 100%;
+  background-image: url(../Images/heealth-wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 17px;
+  /* margin-top: 20px; */
+  /* margin-right: 200px; */
+
+  font-weight: bolder;
+  color: #203040;
+  text-shadow: 1px 1px black;
+  outline-style: none;
+  border: none;
+  cursor: pointer;
+}
+
+.praxis button {
+  /* background-color: yellow; */
+  background-image: url(../Images/praxis-png.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 17px;
+  font-weight: bolder;
+  color: #203040;
+  text-shadow: 1px 1px black;
+  outline-style: none;
+  border: none;
+  cursor: pointer;
+}
+
+.food button {
+  /* background-color: yellow; */
+  background-image: url(../Images/pet-food.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 17px;
+  font-weight: bolder;
+  color: #203040;
+  text-shadow: 1px 1px black;
+  outline-style: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* new*/
+
+.main-home {
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  display: grid;
+  grid-gap: 50px 100px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  background-image: url(../Images/sun-rise.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.card-item {
+  height: 700px;
+  width: 400px;
+  background-color: rgb(30, 30, 128);
+  box-shadow: 5px 10px 8px #888888;
+  /* margin-top: 30px; */
+  border: 4px solid white;
+  border-radius: 10px;
+  
+}
+.card-item h3{
+  color: white;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+
+.img-para{
+  /* background-color: white; */
+  margin: 0;
+  
+  
+}
+
+.img-para img{
+  width: 100%;
+  margin: 0;
+}
+
+.card-item hr{
+  width: 80%;
+  margin: 0 auto;
+  font-weight: bolder;
+  color: white;
+  /* border: dashed; */
+  
+}
+
+.all{
+  height: 100vh;
+  background-image: url(../Images/girl2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#title{
+  font-weight: bolder;
+  font-size: 5rem;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px black;
+  opacity: .6;
+  background-color: rgb(68, 66, 66);
+  border-radius: 50px;
+  width: 50%;
+  /* margin-left: 200px; */
+  margin: 0 auto;
+}
+#title span{
+  color: orange;
+
+  /* background-color: rgb(35, 35, 194); */
+  font-size: 7rem;
+}
+
+.rating{
+  margin-left: 25%;
+}
+
+footer{
+  text-align: center;
+  /* height: 50px; */
+  padding: 30px;
+  background-color: black;
+  opacity: .7;
+  color: white;
+  text-shadow: 1px 1px 3px black;
+  font-weight: bolder;
+}

@@ -1,0 +1,42 @@
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 30px;
+    min-height: 30rem;
+    margin-top: 100px;
+   }
+  .form-message {
+    width: 350px;
+    border-radius: 5px;
+    padding: 30px;
+    box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+    background-color: #1f3e57;
+  }
+  .name-field {
+    margin-bottom: 40px;
+  }
+  .name-field label {
+    
+  }
+  .send-message {
+    margin-top: 20px;
+    padding: 50px;
+    background: transparent;
+    border-radius: 5px;
+  }
+  .render-chat {
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+    color: black;
+    background-color: #1f3e57;
+    margin-left: 850px;
+  
+  }
+  h3 {
+    color: rgb(14, 11, 11);
+  }
+  span {
+    color: rgb(22, 19, 19);
+  }
