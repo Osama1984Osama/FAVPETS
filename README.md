@@ -23,3 +23,4 @@ MySQL
 GitHub
 
 
+You can open this link to register : http://localhost:3000/
