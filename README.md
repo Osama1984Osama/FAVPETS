@@ -1,3 +1,3 @@
 # FAVPETS
 
-![](frond_end/public/img/1.jpg)
+/home/osama/projects/FAVPETS/front_end/public/img/avatar.png
