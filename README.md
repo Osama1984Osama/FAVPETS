@@ -23,4 +23,5 @@ MySQL
 GitHub
 
 
-You can open this link to register :https://github.com/Osama1984Osama/FAVPETS
+You can open this link to register :
+http://localhost:3000/register
