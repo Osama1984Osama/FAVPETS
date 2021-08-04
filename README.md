@@ -1,26 +1,30 @@
 # FAVPETS
 
-This website is online plattform to sell an buy the Pets. 
-After you sign in you coud see the Sidebar, then you can add your content with your own infos.
+Eine Website für den Kauf und Verkauf von Haustieren. Mittels dieser Website konnten die Nutzer zusätzlich medizinische Daten zu ihren Haustieren erhalten und zudem auch artenspezifisches Futter bestellen.
 
 Used Technologies :
 
-Front-End
-HTML5
-CSS
-SASS
-JavaScript
-React JS
+Front-End :
+HTML5,
+CSS,
+JavaScript,
+React Hooks,
 Context API
 Bootstrap
-jQuery
-Redux
-
-Back-end
-Node JS
-MongoDB
-MySQL
-GitHub
 
 
-You can open this link to register :
+Back-end :
+Node JS,
+MongoDB,
+Epress JS
+Nodemailer,
+HttpOnly,Cookies,
+JsonWebToken,
+File Upload,
+Axios
+
+Tools :
+Insomnia,
+Postman
+
+
