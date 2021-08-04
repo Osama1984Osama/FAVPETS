@@ -2,9 +2,9 @@
 
 Eine Website für den Kauf und Verkauf von Haustieren. Mittels dieser Website konnten die Nutzer zusätzlich medizinische Daten zu ihren Haustieren erhalten und zudem auch artenspezifisches Futter bestellen.
 
-Used Technologies :
+# Used Technologies :
 
-Front-End :
+# Front-End :
 HTML5,
 CSS,
 JavaScript,
@@ -13,7 +13,7 @@ Context API
 Bootstrap
 
 
-Back-end :
+# Back-end :
 Node JS,
 MongoDB,
 Epress JS
@@ -23,11 +23,11 @@ JsonWebToken,
 File Upload,
 Axios
 
-Tools :
+# Tools :
 Insomnia,
 Postman
 
-Setup :
+# Setup :
 
 To run this project, install it locally using npm:
 
